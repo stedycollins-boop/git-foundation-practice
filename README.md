@@ -678,3 +678,4 @@ The learning path should progress from:
 Teach each stage progressively and connect new tools to concepts I already understand.
 
 **My guiding principle:** I want to understand what I am doing, why I am doing it, how to verify that it worked, and how to troubleshoot it when it fails.
+*I am practicing Feature Branch*
